@@ -1,0 +1,14 @@
+section{padding-top: 30px; width : 700px;	margin : 0 auto;}
+table{width: 100%; border-collapse: collapse;}
+a{text-decoration: none;}
+.listwritebutton{text-align: right;}
+.listtable{text-align: center; border: 1px solid #D5D5D5;}
+.listtable th{border-top: 1.5px solid #5B7CE5; background-color: #F0F0F0; height: 30px;
+font-size: 0.7em; color: #4C4C4C;}
+.listtable td{border-top: 1px solid #D5D5D5; padding: 5px 0; font-size: 0.9em;}
+.listtable .titletd{ text-align:left;}
+#num{width:40px;}
+#title{width:300px;}
+#writer{width:80px;}
+#date{width:150px;}
+#hit{width:50px;}

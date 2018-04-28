@@ -1,0 +1,13 @@
+section{padding-top: 30px; width: 720px; margin: 0 auto;}
+.contenttable{width: 100%; text-align: center; border-collapse: collapse; background-color: #F0F0F0; font-size: 0.9em;}
+.contenttable th{font-size: 0.8em; color: #4C4C4C; padding: 7px;}
+table .contenttitleth{width: 10%; border-top: 1.5px solid #5B7CE5;}
+table .contenttitle{text-align: left;	font-weight: bold; font-size: 0.9em;	width: 65%;	padding-left: 5px; border-top: 1.5px solid #5B7CE5;}
+table .date {width: 25%; border-top: 1.5px solid #5B7CE5;}
+.writer, .writer + td {width: 10%;}
+.hit, .hit + td{width: 8%;}
+.file {width: 9%;}
+.file + td{width: 30%;}
+.blank {width: 25%;}
+table .content{text-align: left; padding: 10px; height: 400px; background-color: white;}
+table .tablefooter{padding: 10px;}

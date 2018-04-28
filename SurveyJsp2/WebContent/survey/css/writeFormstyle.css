@@ -1,0 +1,6 @@
+section{padding-top: 30px; width: 720px; margin: 0 auto;}
+.board{width: 100%; border-collapse: collapse; text-align: left; border-top: 1.5px solid #5B7CE5;}
+.board td{text-align: left; width: 330px;	height: 30px;}
+.board td .input{width: 70%;}
+.board .attr{font-size: 0.8em; color: #4C4C4C; padding: 7px; width: 70px;}
+.board .tablefooter{padding-top: 10px; text-align: center;}

@@ -1,0 +1,10 @@
+<!DOCTYPE configuration>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee" version="2.1">
+	<tlib-version>1.0</tlib-version>
+	<short-name>email</short-name>
+	<function>
+		<name>mysub</name>
+		<function-class>TLDMethod.Email</function-class>
+		<function-signature>java.lang.String sub(DataObject.SurveyUserDto, int)</function-signature>
+	</function>
+</taglib>

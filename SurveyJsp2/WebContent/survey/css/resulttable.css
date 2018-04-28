@@ -1,0 +1,21 @@
+table{border: 1px solid gray; border-collapse: collapse;}
+
+#total {width: 760px; height: 300px; margin: 30px; vertical-align: middle;}
+#total .total_table {width: 100%; height: 100%; text-align: center; }
+.total_table tr, td, th {border: 1px solid gray;}
+
+.total_table th {color:#226DBC; background-color: #EDF8FF; height: 15%;}
+.total_table tr td:first-child {background-color: #F6F6F6; width: 7%; height: 17%;}
+.total_table tr td:last-child{width: 25%;}
+.total_table tr td:nth-child(2n) {text-align: left; padding-left: 20px;}
+
+#group {width: 760px; height: 350px; margin: 30px;}
+#group .group_table {width: 100%; height: 100%; text-align: center;}
+
+.group_table th {color: white; background-color: #7EA2F4; }
+.group_table tr.trcolor td {color:#226DBC; background-color: #EDF8FF; font-weight: bold;}
+.group_table tr:not(.trcolor):nth-child(odd){background-color: #FFFBF3;}
+.group_table tr td.hide {border-top-color: white; border-left-color: white; background-color: white;}
+
+.group_table tr.trresult th {width: 20%;}
+.group_table tr td {width: 10%;}

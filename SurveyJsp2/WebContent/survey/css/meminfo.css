@@ -1,0 +1,4 @@
+#meminfo{padding-top:30px; width: 480px; margin: 0 auto;}
+#meminfo table{width: 100%; text-align: center; border-collapse: collapse; border : 1px solid #D5D5D5;}
+#meminfo table th, td {padding : 10px;}
+a{text-decoration:none;}

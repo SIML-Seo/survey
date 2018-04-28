@@ -1,0 +1,10 @@
+#login{margin: 0 auto; width : 360px; height: 400px; background-color: #F7F7F7;}
+#login * {display: inline-block;}
+#login .loginl {width: 100%; margin: 70px 0; background: #4E90FE; text-align: center; 
+padding: 10px 0; font-size: 1.3em; font-family: "Arial"; color: white; font-weight: bold;}
+#login .loginin {width: 80%; height: 25px; margin: 5px 30px; font-size: 1.2em;}
+#login .loginb {width: 80%; height: 25px; margin: 10px 30px; background: #4E90FE; font-size: 1.2em; color: white;
+font-weight: bold; font-family: "Arial"; text-align: center; padding: 10px 0;}
+#login .loginsubmit{margin-left:145px; margin-bottom: 15px;}
+#login .regis {font-size: 0.9em; margin-left: 145px;}
+

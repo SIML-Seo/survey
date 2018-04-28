@@ -1,0 +1,18 @@
+a{text-decoration: none;}
+
+#list {height: 100%; width: 760px; font-size: 0.9em;}
+#listtb {width: 100%; height: auto; border: 1px solid #D5D5D5; border-collapse: collapse;}
+.head{height: 25px; line-height: 25px; padding-left: 10px; font-weight: bold;background: linear-gradient(to bottom, #feffe8 0%,#d6dbbf 100%);}
+.catalog{font-size: 0.8em; background: #feffe8; text-align: center;}
+.catalog td { border: 1px solid #D5D5D5;}
+.catalog .date {width: 12%;}
+.catalog .num {width: 12%;}
+.article{font-size: 0.8em; background: #FAF6FF; padding-left: 10px;}
+.content{height: 30px; line-height: 30px; text-align: center;}
+.content td { border: 1px solid #D5D5D5;}
+
+.start{background: linear-gradient(to bottom, #c3d9ff 0%,#b1c8ef 41%,#98b0d9 100%); }
+.end{background: linear-gradient(to bottom, #f9c667 0%,#f79621 100%); }
+.close{background: linear-gradient(to bottom, #fcfff4 0%,#dfe5d7 40%,#b3bead 100%); }
+.content a {padding: 2px 5px;border-radius: 5px;}
+.content span {color: white; font-size: 0.8em;}
